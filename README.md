@@ -1,5 +1,6 @@
 - I’m @SergioUdave
 - I'm studying Computer Science with a concentration in Software Engineering at SNHU
+- I'm expected to graduate in June, 2023
 - You can reach me at serg.udave@gmail.com
 
 <!---
