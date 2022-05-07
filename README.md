@@ -1,4 +1,4 @@
-* Sergio Udave
+- Sergio Udave
 - Studying: Computer Science with a concentration in Software Engineering at SNHU
 - Graduating: June, 2023
 - Contact Me: serg.udave@gmail.com
