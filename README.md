@@ -1,6 +1,6 @@
 **Sergio Udave**  
 - Studying: Computer Science with Software Engineering concentration
-- Graduating: June, 2023
+- Graduating: March, 2023
 - Contact Me: serg.udave@gmail.com
 
 <!---
